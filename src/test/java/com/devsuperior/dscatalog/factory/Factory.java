@@ -1,4 +1,4 @@
-package com.devsuperior.dscatalog.tests;
+package com.devsuperior.dscatalog.factory;
 
 import java.time.Instant;
 

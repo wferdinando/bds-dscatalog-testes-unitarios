@@ -15,7 +15,7 @@ import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 import org.springframework.dao.EmptyResultDataAccessException;
 
 import com.devsuperior.dscatalog.entities.Product;
-import com.devsuperior.dscatalog.tests.Factory;
+import com.devsuperior.dscatalog.factory.Factory;
 
 @DataJpaTest
 public class ProductRepositoryTests {
